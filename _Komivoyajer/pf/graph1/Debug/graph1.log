@@ -1,0 +1,61 @@
+﻿  Graph_.cpp
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(70,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(79,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(80,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(133,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(135,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(341,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(363,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(369,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(400,37): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(400,24): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(401,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(428,37): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(428,24): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(429,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(457,37): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(457,24): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(458,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(461,42): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(462,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(489,35): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(490,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(517,37): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(517,24): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(518,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(544,36): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(544,24): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(545,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(571,36): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(572,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(602,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(603,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(631,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(632,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(661,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(662,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(691,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(692,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(743,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(744,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(748,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(749,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(755,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(755,16): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(828,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(829,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(1015,37): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(1015,24): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(1016,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(1067,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(1248,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(1249,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(1250,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.cpp(1251,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  main.cpp
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\main.cpp(17,33): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\main.cpp(17,28): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\main.cpp(17,23): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\main.cpp(17,18): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  Создание кода...
+  graph1.vcxproj -> C:\Users\Qyuatro\source\repos\graph1\Debug\graph1.exe

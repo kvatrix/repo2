@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Graph">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAEKAgAEAQAAEAAAAADAEAgBABAAiBAAQBA=</HashCode>
+      <FileName>C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="vertCoord">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Qyuatro\Desktop\Graph_OpenGL-main\Graph_.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="GLUTproc" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Qyuatro\source\repos\graph1\GL\freeglut_ext.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
